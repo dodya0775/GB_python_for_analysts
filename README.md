@@ -8,4 +8,4 @@
 Проведите оценку мер близости товаров, получив матрицу item_item_sim_matrix со значениями косинусов между векторами товаров.
 Отберите ТОП-10 похожих товаров по StockCode.
 Выведите список ТОП-10 похожих товаров с названиями (Description) на экран.
-Исходный товар - StockCode: 23166 Description: MEDIUM CERAMIC TOP STORAGE JAR
+Исходный товар - StockCode: 23166 Description: MEDIUM CERAMIC TOP STORAGE JAR.
